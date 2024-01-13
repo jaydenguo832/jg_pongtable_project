@@ -14,7 +14,12 @@ The project kit version of the Ping Pong Table is designed to be the curriculum 
 The marketing version of the Ping Pong Table is built to be the showpiece at Zen Maker Lab for marketing use and be an interactive attraction for customers to introduce mechatronics and robotics to prospective engineers. 
 
 ## Key Designs
+### Linear Actuator
+The mechanism utilizes a comma-shaped coupler rotating on a DC motor to do the paddle actuation and a rubber band to provide the launching force of the paddle to hit the ball. It is a simple design for ease of repair and reproduction.
 
+*show linear actator pictures
+
+###
 
 
 
