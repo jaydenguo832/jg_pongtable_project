@@ -7,6 +7,8 @@ The Arcade Ping Pong Table Project is a mechatronic rendition of the classic int
 
 My role as the Project Developer at Zen Maker Lab was to lead the design and production of the project utilizing laser cutting and FDM 3D printing for component production, along with wire soldering, breadboard wiring, and C programming for putting it together. Using AutoCAD, and Fusion360 for designs, and Arduino UNO as the microcontroller and L298N motor driver on dedicated programs to power the DC motors. 
 
+All materials and parts are fabricated in-house. The table base is made with laser-cut MDF plywood sheets from the AutoCAD designs. Additional spacers, standoffs, brackets, and paddles are 3D printed from the Fusion360 CAD. 
+
 As an instructor, I taught engineering thinking and design principles, along with technical skills such as soldering, 3D design, and circuit building during the course. The students demonstrated competence in learning and adapting technical and important skills to their own spin on the project.
 
 ## AutoCAD and Fusion360
@@ -14,9 +16,12 @@ As an instructor, I taught engineering thinking and design principles, along wit
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/d07a1767-89e3-4749-b437-8b23ac737a15)
 
 
-## Build
+## Assembly
+Laser-Cut MDF Plywood
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/c29f01ad-2a3c-4cc5-bd6c-a062a0c1bdb8)
+3D Printed Components
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/78e6837e-ce4f-4578-81c6-4c3053ee1d88)
+Electronic Components (Jumper Cables, Arduino, L298N, DC Motors, Switches, and Breadboard)
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/10779a67-cde9-4732-a9a5-c73a2b54a233)
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/d91a5dde-47c6-460b-b3f5-f0cdfbdbcdc8)
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/b9ef0c92-30b2-46a3-a42c-d43480bc5d2b)
