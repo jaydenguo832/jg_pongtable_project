@@ -1,4 +1,6 @@
 # Ping Pong Table Project Portfolio
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/8d4ca067-3458-474f-a444-822d0bf5462a)
+
 
 ## Project Description
 The Arcade Ping Pong Table Project is a mechatronic rendition of the classic interactive two-player arcade game. The players control a linear actuator to try to score points by hitting the ball past the opponent's backline. 
@@ -7,13 +9,38 @@ My role as the Project Developer at Zen Maker Lab was to lead the design and pro
 
 As an instructor, I taught engineering thinking and design principles, along with technical skills such as soldering, 3D design, and circuit building during the course. The students demonstrated competence in learning and adapting technical and important skills to their own spin on the project.
 
-## Key Designs
-### Linear Actuator
-The mechanism utilizes a comma-shaped coupler rotating on a DC motor to do the paddle actuation and a rubber band to provide the launching force of the paddle to hit the ball. It is a simple design for ease of repair and reproduction.
+## AutoCAD and Fusion360
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/aac09a61-1bca-4ddc-83be-d4e1f8dfb01c)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/d07a1767-89e3-4749-b437-8b23ac737a15)
 
-*show linear actator pictures
 
-###
+## Build
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/c29f01ad-2a3c-4cc5-bd6c-a062a0c1bdb8)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/78e6837e-ce4f-4578-81c6-4c3053ee1d88)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/10779a67-cde9-4732-a9a5-c73a2b54a233)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/d91a5dde-47c6-460b-b3f5-f0cdfbdbcdc8)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/b9ef0c92-30b2-46a3-a42c-d43480bc5d2b)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/607619f1-89dd-4a1a-a207-58a59e1b5c21)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/c865ace6-dd69-4465-9b3a-5d386c4da0c3)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/542af12d-5151-4e8c-b3cc-d907a788bf61)
+
+## Student Creations
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/3ed10d9c-1e76-4ba6-9c07-793909cbbe9b)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/00f1b63c-b5ee-418f-b00f-948b97295414)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/a2a45fee-d2c3-4e3c-a432-b6c839c32bc5)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/3ccee3ce-3c1e-4827-97f9-4e5a225898f4)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/6981698e-ca06-47e1-b8c4-0fea402b252a)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/4f7c6f74-3f49-4450-a192-f8cb909b741c)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/32c2abd6-1749-400d-a16b-a77fefbf59a2)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/6e9bf242-4046-46be-8997-aa0824f477d6)
+![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/6d8a08f1-bd31-41e3-99c4-c1c664c99408)
+
+
+
+
+
+
+
 
 
 
