@@ -1,4 +1,4 @@
-# Ping Pong Table Project Portfolio
+# Pinball Arcade Project Portfolio
 ![image](https://github.com/jaydenguo832/jg_pongtable_project/assets/31781644/8d4ca067-3458-474f-a444-822d0bf5462a)
 
 
